@@ -10,7 +10,7 @@ The tools I like working with are:
 
 Here are some of my contributions:
 
-- [rails/rails](https://github.com/rails/rails/commits?author=alexandreruban)
+- [kevinkotcherga/cv-portfolio](https://github.com/kevinkotcherga/cv-portfolio)
 - [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails/commits?author=alexandreruban)
 - [hostolab/covidliste](https://github.com/hostolab/covidliste/commits?author=alexandreruban)
 - [forem/forem](https://github.com/forem/forem/commits?author=alexandreruban)
