@@ -4,9 +4,9 @@ A passionate ruby on rails developer from France.
 
 The tools I like working with are:
 
-- :gem: Ruby, Ruby on Rails and Hotwire
-- Stimulus for sprinkles (✨) of Javascript
-- CSS and Figma for the design
+- :gem: Ruby and Ruby on Rails
+- ⚡ Stimulus, the Javascript framework
+- :art: CSS, Bootstrap and Figma for the design
 
 Here are some of my contributions:
 
