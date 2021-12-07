@@ -2,20 +2,18 @@
 
 A passionate ruby on rails developer from France.
 
-🔭 The tools I like working with are:
+The tools I like working with are:
 
-:gem: Ruby, Ruby on Rails and Hotwire
-Stimulus for sprinkles (✨) of Javascript
-Minitest for testing
-CSS and Figma for the design
-I started contributing to open source and would love to contribute more in the future.
+- :gem: Ruby, Ruby on Rails and Hotwire
+- Stimulus for sprinkles (✨) of Javascript
+- CSS and Figma for the design
 
 Here are some of my contributions:
 
-rails/rails
-hotwired/turbo-rails
-hostolab/covidliste
-forem/forem
+- [rails/rails](https://github.com/rails/rails/commits?author=alexandreruban)
+- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails/commits?author=alexandreruban)
+- [hostolab/covidliste](https://github.com/hostolab/covidliste/commits?author=alexandreruban)
+- [forem/forem](https://github.com/forem/forem/commits?author=alexandreruban)
 
 <!--
 **kevinkotcherga/kevinkotcherga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
