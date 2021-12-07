@@ -2,7 +2,7 @@
 
 A passionate fullstack ruby on rails developer from France.
 
-The tools I like working with are:
+The tools I like working with are :
 
 - :gem: Ruby and Ruby on Rails
 - ⚡ Stimulus, the Javascript framework
