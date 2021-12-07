@@ -11,7 +11,7 @@ The tools I like working with are :
 Here my portfolio:
 
 - [kevinkotcherga/cv-portfolio](https://github.com/kevinkotcherga/cv-portfolio)
-I am currently working on redesigning my portfolio in ruby.
+(I am currently working on redesigning my portfolio in ruby).
 
 My bootcamp projects :
 
