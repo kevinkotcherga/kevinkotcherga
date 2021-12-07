@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Kevin
+
+A passionate ruby on rails developer from France
 
 <!--
 **kevinkotcherga/kevinkotcherga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
