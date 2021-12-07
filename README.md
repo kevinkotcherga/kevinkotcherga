@@ -1,10 +1,11 @@
 ### Hi 👋, I'm Kevin
 
 A passionate fullstack ruby on rails developer from France.
+[image](https://user-images.githubusercontent.com/78493094/145042358-8665cc04-58f4-4296-81a3-15249bb83b0e.png)
 
 The tools I like working with are :
 
-- :gem: Ruby and Ruby on Rails ![image](https://user-images.githubusercontent.com/78493094/145042358-8665cc04-58f4-4296-81a3-15249bb83b0e.png)
+- :gem: Ruby and Ruby on Rails !
 - ⚡ Stimulus, the Javascript framework
 - :art: CSS, Bootstrap and Figma for the design
 
