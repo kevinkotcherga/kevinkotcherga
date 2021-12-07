@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Kevin
 
-A passionate ruby on rails developer from France.
+A passionate fullstack ruby on rails developer from France.
 
 The tools I like working with are:
 
@@ -11,9 +11,8 @@ The tools I like working with are:
 Here are some of my contributions:
 
 - [kevinkotcherga/cv-portfolio](https://github.com/kevinkotcherga/cv-portfolio)
-- [hotwired/turbo-rails](https://github.com/hotwired/turbo-rails/commits?author=alexandreruban)
-- [hostolab/covidliste](https://github.com/hostolab/covidliste/commits?author=alexandreruban)
-- [forem/forem](https://github.com/forem/forem/commits?author=alexandreruban)
+- [kevinkotcherga/VIBES](https://github.com/kevinkotcherga/VIBES)
+- [JulesChevrant/OVNINB](https://github.com/JulesChevrant/OVNINB)
 
 <!--
 **kevinkotcherga/kevinkotcherga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
