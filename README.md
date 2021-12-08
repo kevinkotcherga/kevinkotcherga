@@ -8,7 +8,7 @@ The tools I like working with are :
 - ⚡ Stimulus, the Javascript framework
 - :art: CSS, Bootstrap and Figma for the design
 
-Here my portfolio:
+Here is my portfolio:
 
 - [kevinkotcherga/cv-portfolio](https://github.com/kevinkotcherga/cv-portfolio)
 (I am currently working on redesigning my portfolio in ruby).
@@ -18,7 +18,7 @@ My bootcamp projects :
 - [kevinkotcherga/VIBES](https://github.com/kevinkotcherga/VIBES)
 - [JulesChevrant/OVNINB](https://github.com/JulesChevrant/OVNINB)
 
-🌱 I am currently reading the book: "Ruby on Rails Tutorial by Michael Hartl" to improve my ruby.
+🌱 I am currently reading the book: "Ruby on Rails Tutorial by Michael Hartl" to improve my ruby skills.
 
 🔨 I am currently working on improving my bootcamp project (vibes).
 
