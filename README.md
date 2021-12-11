@@ -9,7 +9,7 @@ The tools I like working with are :
 - :art: CSS, Bootstrap and Figma for the design
 
 Here is my portfolio:
-
+- https://kevinkotcherga.fr/
 - [kevinkotcherga/cv-portfolio](https://github.com/kevinkotcherga/cv-portfolio)
 (I am currently working on redesigning my portfolio in ruby [here](https://github.com/kevinkotcherga/portfolio)).
 
