@@ -22,7 +22,7 @@ My bootcamp projects :
 
 🔨 I am currently working on improving my bootcamp project (vibes).
 
-🔭 I have a project to create a twitter clone in ruby
+🔭 I have a project to create a twitter clone in ruby.
 
 <!--
 **kevinkotcherga/kevinkotcherga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
