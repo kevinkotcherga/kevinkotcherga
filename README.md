@@ -15,8 +15,8 @@ A passionate fullstack ruby on rails developer from France.
 
 ### My bootcamp projects :
 
-- [kevinkotcherga/VIBES](https://github.com/kevinkotcherga/VIBES)
-- [JulesChevrant/OVNINB](https://github.com/JulesChevrant/OVNINB)
+- [kevinkotcherga/vibes](https://github.com/kevinkotcherga/vibes)
+- [JulesChevrant/ovninb](https://github.com/JulesChevrant/OVNINB)
 
 🌱 I am currently reading the book: "Ruby on Rails Tutorial by Michael Hartl" to improve my ruby skills.
 
