@@ -2,18 +2,18 @@
 
 A passionate fullstack ruby on rails developer from France.
 
-The tools I like working with are :
+### The tools I like working with are :
 
 - :gem: Ruby and Ruby on Rails !
 - ⚡ Stimulus, the Javascript framework
 - :art: CSS, Bootstrap and Figma for the design
 
-Here is my portfolio:
+### Here is my portfolio:
 - https://kevinkotcherga.fr/
 - [kevinkotcherga/cv-portfolio](https://github.com/kevinkotcherga/cv-portfolio)
 (I am currently working on redesigning my portfolio in ruby [here](https://github.com/kevinkotcherga/portfolio)).
 
-My bootcamp projects :
+### My bootcamp projects :
 
 - [kevinkotcherga/VIBES](https://github.com/kevinkotcherga/VIBES)
 - [JulesChevrant/OVNINB](https://github.com/JulesChevrant/OVNINB)
