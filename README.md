@@ -1,4 +1,4 @@
-### Hi 👋, I'm Kevin
+## Hi 👋, I'm Kevin
 
 A passionate fullstack ruby on rails developer from France.
 
