@@ -12,6 +12,7 @@ A passionate fullstack ruby on rails developer from France.
 - https://kevinkotcherga.fr/
 - [kevinkotcherga/cv-portfolio](https://github.com/kevinkotcherga/cv-portfolio)
 (I am currently working on redesigning my portfolio in ruby [here](https://github.com/kevinkotcherga/portfolio)).
+- https://kevinkotcherga.herokuapp.com/
 
 ### My bootcamp projects :
 
