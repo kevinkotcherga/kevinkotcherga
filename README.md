@@ -21,8 +21,6 @@ A passionate fullstack ruby on rails developer from France.
 
 🌱 I am currently reading the book: "Ruby on Rails Tutorial by Michael Hartl" to improve my ruby skills.
 
-🔨 I am currently working on improving my bootcamp project (vibes).
-
 🔭 I have a project to create a twitter clone in ruby
 
 <!--
