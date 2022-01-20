@@ -10,8 +10,6 @@ A passionate fullstack ruby on rails developer from France.
 
 ### Here is my [portfolio](https://kevinkotcherga.herokuapp.com/)
 
-- https://kevinkotcherga.herokuapp.com/
-
 ### My bootcamp projects :
 
 - [kevinkotcherga/vibes](https://github.com/kevinkotcherga/vibes)
