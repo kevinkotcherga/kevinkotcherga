@@ -8,10 +8,8 @@ A passionate fullstack ruby on rails developer from France.
 - ⚡ Stimulus, the Javascript framework
 - :art: CSS, Bootstrap and Figma for the design
 
-### Here is my portfolio:
-- https://kevinkotcherga.fr/
-- [kevinkotcherga/cv-portfolio](https://github.com/kevinkotcherga/cv-portfolio)
-(I am currently working on redesigning my portfolio in ruby [here](https://github.com/kevinkotcherga/portfolio)).
+### Here is my [portfolio](https://kevinkotcherga.herokuapp.com/)
+
 - https://kevinkotcherga.herokuapp.com/
 
 ### My bootcamp projects :
