@@ -8,12 +8,12 @@ A passionate fullstack ruby on rails developer from France.
 - ⚡ Stimulus, the Javascript framework
 - :art: CSS, Bootstrap and Figma for the design
 
-### Here is my [portfolio](https://kevinkotcherga.herokuapp.com/)
-
 ### My bootcamp projects :
 
 - [kevinkotcherga/vibes](https://github.com/kevinkotcherga/vibes)
 - [JulesChevrant/ovninb](https://github.com/JulesChevrant/OVNINB)
+
+### Here is my [portfolio](https://kevinkotcherga.herokuapp.com/)
 
 🌱 I am currently reading the book: "Ruby on Rails Tutorial by Michael Hartl" to improve my ruby skills.
 
