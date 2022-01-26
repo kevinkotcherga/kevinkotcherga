@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Kevin
 
-A passionate fullstack ruby on rails developer from France.
+A passionate fullstack ruby on rails & react developer from France.
 
 ### The tools I like working with are :
 
