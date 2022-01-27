@@ -6,7 +6,7 @@ A passionate fullstack ruby on rails & react developer from France.
 
 - :gem: Ruby and Ruby on Rails !
 - ⚡ React & Stimulus 
-- :art: CSS, Bootstrap and Figma for the design
+- :art: CSS, Bootstrap, Ant Design and Figma for the design
 
 ### My bootcamp projects :
 
