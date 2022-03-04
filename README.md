@@ -4,7 +4,7 @@ A passionate fullstack ruby on rails & react developer from France.
 
 ### The tools I like working with are :
 
--  Node.js, Ruby & Ruby On Rails !
+-     Node.js, Ruby & Ruby On Rails !
 - ⚡ React & Stimulus 
 - :art: CSS, Bootstrap, Ant Design & Figma for the design
 
