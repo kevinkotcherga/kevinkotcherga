@@ -1,4 +1,4 @@
-## Hi 👋, I'm Kevin
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kevin
 
 A passionate fullstack developer from France.
 
