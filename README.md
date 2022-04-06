@@ -4,9 +4,9 @@ A passionate fullstack developer from France.
 
 ### The tools I like working with are :
 
--  :wrench: Node.js, Ruby & Ruby On Rails !
-- ⚡ React, Vue.js & Stimulus 
-- :art: CSS, Bootstrap, Ant Design & Figma for the design
+- Node.js, Ruby & Ruby On Rails !
+- React, Vue.js & Stimulus 
+- CSS, Bootstrap, Ant Design & Figma for the design
 
 ### My bootcamp projects :
 
