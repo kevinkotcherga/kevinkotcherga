@@ -1,35 +1,14 @@
-## Hi, I'm Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## Hi, I'm Kevin !
 
-A passionate fullstack developer from France.
+I'm a passionate front-end developer, I work with languages:
 
-### The tools I like working with are :
+• Front: React.js & Next.js
+• Backend: Node.js & Ruby & Ruby On Rails
+• Design: Scss, Bootstrap, Ant Design & Figma 
 
-- Node.js, Ruby & Ruby On Rails 
-- React, Vue.js & Stimulus 
-- CSS, Bootstrap, Ant Design & Figma for the design
+### Here is my [portfolio](http://www.kevinkotcherga.xyz)
 
-### My bootcamp projects :
 
-- [kevinkotcherga/vibes](https://github.com/kevinkotcherga/vibes)
-- [JulesChevrant/ovninb](https://github.com/JulesChevrant/OVNINB)
+If you want to discuss do not hesitate to contact me, I would be happy to meet you.
 
-### Here is my [portfolio](https://kevinkotcherga.herokuapp.com/)
-
-🌱 I am currently reading the book: "Ruby on Rails Tutorial by Michael Hartl" to improve my ruby skills.
-
-🔭 I have a project to create a twitter clone in ruby
-
-<!--
-**kevinkotcherga/kevinkotcherga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+kevin.kotcherga@gmail.com
