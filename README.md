@@ -2,9 +2,9 @@
 
 I'm a passionate front-end developer, I work with languages:
 
-• Front: React.js & Next.js
-• Backend: Node.js & Ruby & Ruby On Rails
-• Design: Scss, Bootstrap, Ant Design & Figma 
+- Front: React.js & Next.js
+- Backend: Node.js & Ruby & Ruby On Rails
+- Design: Scss, Bootstrap, Ant Design & Figma 
 
 ### Here is my [portfolio](http://www.kevinkotcherga.xyz)
 
