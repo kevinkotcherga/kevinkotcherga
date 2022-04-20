@@ -2,7 +2,7 @@
 
 I'm a passionate front-end developer, I work with languages:
 
-- Front: React.js & Next.js
+- Front: React.js, Redux & Typescript
 - Backend: Node.js & Ruby & Ruby On Rails
 - Design: Scss, Bootstrap, Ant Design & Figma 
 
