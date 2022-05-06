@@ -6,7 +6,7 @@ I'm a passionate front-end developer, I work with languages:
 - Backend: Node.js & Ruby & Ruby On Rails
 - Design: Scss, Bootstrap, Ant Design & Figma 
 
-### Here is my [portfolio](http://www.kevinkotcherga.xyz)
+### Here is my [portfolio](http://www.kevinkotcherga.xyz) :
 ![Capture d’écran 2022-05-06 110852](https://user-images.githubusercontent.com/78493094/167102456-bf87a506-9748-4e51-99c2-608f076c32b3.jpg)
 
 
