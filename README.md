@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin !
 
-I'm a passionate front-end developer, I work with languages:
+I'm a passionate fullstack developer, I work with languages:
 
 - Front: React.js, Redux & Typescript
 - Backend: Node.js & Ruby & Ruby On Rails
