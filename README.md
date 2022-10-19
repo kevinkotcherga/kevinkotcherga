@@ -2,9 +2,13 @@
 
 I'm a passionate fullstack developer, I work with languages:
 
-- Front: React.js, Redux & Typescript
-- Backend: Node.js & Ruby & Ruby On Rails
-- Design: Scss, Bootstrap, Ant Design & Figma 
+• Front-end : Javascript, React.js, Redux, Typescript, HTML5, CSS3/SCSS, API REST/GraphQL, Bootstrap
+
+• Back-end : Node.js, Express, TypeORM, Typescript, GraphQL, Apollo Server, Ruby On Rails, SQL, Sqlite3, MongoDB, Docker, Php, Firebase
+
+• Design : Figma, Ant Design, Material Design, Chakra UI
+
+• Unit tests : Jest
 
 If you want to discuss do not hesitate to contact me, I would be happy to meet you.
 
