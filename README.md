@@ -1,4 +1,4 @@
-## Hi, I'm Kevin !
+## Hi, I'm Kevin Kotcherga !
 
 I'm a passionate fullstack developer, I work with languages:
 
