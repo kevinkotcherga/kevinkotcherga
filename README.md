@@ -1,14 +1,13 @@
-## Hi, I'm Kevin Kotcherga ! 👋
+## Hi, I'm Kevin Kotcherga 
 
-I'm a passionate front-end developer, I work with languages:
+Passionate front-end developer with strong back-end skills: 
 
-• Front-end : Javascript, React.js, Redux, Typescript, HTML5, CSS3/SCSS, API REST/GraphQL, Bootstrap
+- Front-end: react.js, typescript, context, redux, jest, API rest/graphQL.
 
-• Back-end : Node.js, Express, TypeORM, Typescript, GraphQL, Apollo Server, Ruby On Rails, SQL, Sqlite3, MongoDB, Docker, Php, Firebase
+- Back-end: node.js, SQL, typeORM, docker, ruby on rails, firebase.
 
-• Design : Figma, Ant Design, Material Design, Chakra UI
+- Design: figma, ant design, material design, chakra UI.
 
-• Unit tests : Jest
+- Unit testing: jest
 
-If you want to discuss do not hesitate to contact me, I would be happy to meet you.
-
+If you'd like to talk, please don't hesitate to contact me. I'd be delighted to meet you.
