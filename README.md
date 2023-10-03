@@ -1,4 +1,4 @@
-##👋 Hi, I'm Kevin Kotcherga 
+## 👋 Hi, I'm Kevin Kotcherga 
 
 Passionate front-end developer with strong back-end skills: 
 
