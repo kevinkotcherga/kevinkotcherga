@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kevin Kotcherga 
 
-Passionate front-end developer with strong back-end skills: 
+Passionate Front-end developer with strong Back-end skills: 
 
 * ✔️ 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱: React.js, Typescript, Context, Redux, API REST/GraphQL.
 * ✔️ 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱: Node.js, SQL, TypeORM, Docker, Ruby On Rails, Firebase.
